@@ -1,0 +1,17 @@
+.contact.ui.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+.contact p {
+  margin-top: 5px;
+  max-width: 500px;
+  text-align: justify;
+}

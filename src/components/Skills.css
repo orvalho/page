@@ -1,0 +1,29 @@
+.skills.ui.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+.skills .wrapper {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5px 0;
+}
+
+.skills .wrapper .list {
+  margin: 0;
+}
+
+.skills p {
+  margin-top: 20px;
+  max-width: 500px;
+  text-align: justify;
+}
